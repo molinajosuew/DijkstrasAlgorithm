@@ -1,0 +1,2 @@
+# Dijkstra's Algorithm
+Given an image containing a maze with its walls in black (#000000), its starting position in red (#FF0000), and its ending position in blue (#0000FF), this solution draws a red line from the starting position to the ending position using Dijkstra's algorithm.
